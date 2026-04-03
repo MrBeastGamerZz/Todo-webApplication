@@ -9,8 +9,14 @@
 
 <style>
 
+	:root{
+		--color: #d3d3d3;
+		--bgColor: #638CB8;
+		--secbgColor: #906abd;
+		--btnbgColor: #ffae19;
+	}
 	body{
-		background-color: #638CB8;
+		background-color: var(--bgColor);
 	}
 
 	input{
@@ -21,11 +27,11 @@
 	}
 
 	input::placeholder {
-	  color: #d3d3d3;
+	  color: var(--color);
 	}
 
 	.submit{
-		background-color: #6BA3E8;
+		background-color: var(--bgColor);
 	}
 
 	.center-column{
@@ -38,7 +44,7 @@
 	}
 
 	.item-row{
-		background-color: #906abd;
+		background-color: var(--secbgColor);
 		margin: 10px;
 		padding: 20px;
 		border-radius: 3px;
@@ -48,8 +54,8 @@
 	}
 
 	.btn-danger{
-		background-color: #ffae19;
-		border-color: #e59400;
+		background-color: var(--btnbgColor);
+		border-color: var(--btnbgColor);
 	}
 
 </style>
