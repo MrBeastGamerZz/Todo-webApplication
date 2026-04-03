@@ -3,7 +3,7 @@
 A task management web application built with **Python** and the **Django** framework.  
 Users can create, view, update, and delete tasks through a clean web interface.
 
-> **Course project** — Built as part of a 5th Semester Django coursework module.  
+> **Course project** — Built as part of a 5th Semester(Sep 2024 to Dec 2024) Django coursework module.  
 > Base project adapted from [larymak/ToDo-list-App](https://github.com/larymak/ToDo-list-App).  
 > Extended with additional features and improvements by the contributors below.
 
