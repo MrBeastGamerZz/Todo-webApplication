@@ -95,18 +95,6 @@ This project demonstrates all four CRUD operations using Django:
 
 ---
 
-## Planned Improvements
-
-- [ ] User authentication (login / register)
-- [ ] Task priority levels (Low / Medium / High)
-- [ ] Due dates for tasks
-- [ ] Search and filter tasks
-- [ ] REST API using Django REST Framework
-- [ ] Deploy to Render / Railway
-- [ ] Write unit tests
-
----
-
 ## Acknowledgements
 
 - Base project: [larymak/ToDo-list-App](https://github.com/larymak/ToDo-list-App) by Hillary Nyakundi
